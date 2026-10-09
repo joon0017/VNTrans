@@ -1,0 +1,9 @@
+/build/
+/.vs/
+*.user
+/.venv/
+/dist/
+__pycache__/
+*.pyc
+*.spec
+/runtime32/
